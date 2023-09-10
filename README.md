@@ -1,6 +1,11 @@
 # Railway-reservation-system
 Welcome to the Railway Reservation System – a Java-based terminal application that simplifies booking and managing railway tickets. This project leverages the power of Object-Oriented Programming to provide an efficient and user-friendly railway ticket booking experience.
 
+# Project discription
+- The Railway Reservation System is a terminal-based application that allows users to book and manage railway tickets. This project uses Object Oriented Programming.
+- The project will consist of the following modules/Functionalities:
+- Create an ArrayList where available stations are - Delhi, Jaipur, Prayagraj, and Mumbai
+
 # Key Features-
 **Train information:**  Easily find information about available trains by specifying your source and destination stations, along with your travel date. Our system currently offers three trains for your convenience:
 
