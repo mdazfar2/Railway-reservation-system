@@ -4,13 +4,8 @@ Welcome to the Railway Reservation System – a Java-based terminal application 
 # Key Features-
 **Train information:**  Easily find information about available trains by specifying your source and destination stations, along with your travel date. Our system currently offers three trains for your convenience:
 
-Train Name	            Departure Time	    Passenger Strength	   Train Number
+![image](https://github.com/mdazfar2/Railway-reservation-system/assets/100375390/03037cbc-6be2-4ff7-9b56-d94cf2b311c9)
 
-Mumbai - Delhi	           13:05	                50	               1010 (Mumbai Superfast)
-
-Delhi - Jaipur	           07:00	                50	               2013 (Delhi SuperFast)
-
-Prayagraj - Delhi	         10:00	                50	               3045 (Prayagraj EXP)
 
 **Seat Availability:** Check seat availability for your chosen train and have peace of mind knowing you can secure a comfortable journey.
 
@@ -27,6 +22,3 @@ Contributions are welcome! If you have ideas for additional buttons, improvement
 - [LinkedIn](www.linkedin.com/in/md-azfar-alam)
 
 Happy coding! 😃✨
-
-![image](https://github.com/mdazfar2/Railway-reservation-system/assets/100375390/c7212cfd-6d9f-4770-b680-21a7c54958a2)
-
