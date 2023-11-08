@@ -7,7 +7,7 @@ Welcome to the Railway Reservation System – a Java-based terminal application 
 - Create an ArrayList where available stations are - Delhi, Jaipur, Prayagraj, and Mumbai
 
 # Key Features-
-**Train information:**  Easily find information about available trains by specifying your source and destination stations, along with your travel date. Our system currently offers three trains for your convenience:
+**Train information:**  Easily find information about available trains by specifying your source and destination stations, along with your travel date. Our system currently offers three trains for your convenience.
 
 ![image](https://github.com/mdazfar2/Railway-reservation-system/assets/100375390/03037cbc-6be2-4ff7-9b56-d94cf2b311c9)
 
